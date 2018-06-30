@@ -1,0 +1,4 @@
+INSERT INTO public.dt_user (dt_user_id, dt_user_name, dt_user_contact, dt_user_email, dt_user_access_level, dt_user_password) VALUES (6, 'Timothy Lampung', '0192533735', 'timothylampung@gmail.com', 2, '123123');
+INSERT INTO public.dt_user (dt_user_id, dt_user_name, dt_user_contact, dt_user_email, dt_user_access_level, dt_user_password) VALUES (7, 'Timothy Lampung', '0192533735', 'timothylampung@gmail.com', 2, '123123');
+INSERT INTO public.dt_user (dt_user_id, dt_user_name, dt_user_contact, dt_user_email, dt_user_access_level, dt_user_password) VALUES (8, 'Timothy Lampung', '0192533735', 'timothysdlampung@gmail.com', 2, '123123');
+INSERT INTO public.dt_user (dt_user_id, dt_user_name, dt_user_contact, dt_user_email, dt_user_access_level, dt_user_password) VALUES (9, 'Timothy Lampung', '0192533735', 'timothysdlampung@gmail.com', 2, '123123');

@@ -1,0 +1,4 @@
+INSERT INTO public.dt_student (dt_student_id, dt_student_matric, dt_student_ic, dt_student_course, dt_student_cgpa, dt_student_user_id, dt_student_department) VALUES (5, '179149', '950808136453', 'Mul', '4.0', 6, 'Mul');
+INSERT INTO public.dt_student (dt_student_id, dt_student_matric, dt_student_ic, dt_student_course, dt_student_cgpa, dt_student_user_id, dt_student_department) VALUES (6, '179148', '950808136453', 'Mul', '4.0', 7, 'Mul');
+INSERT INTO public.dt_student (dt_student_id, dt_student_matric, dt_student_ic, dt_student_course, dt_student_cgpa, dt_student_user_id, dt_student_department) VALUES (7, '179148', '950808136453', 'Mul', '4.0', 8, 'Mul');
+INSERT INTO public.dt_student (dt_student_id, dt_student_matric, dt_student_ic, dt_student_course, dt_student_cgpa, dt_student_user_id, dt_student_department) VALUES (8, '179148', '950808136453', 'Mul', '4.0', 9, 'Mul');
